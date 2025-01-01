@@ -24,7 +24,7 @@ Este projeto consiste em uma aplicação com interface gráfica para análise de
 
 ## Instalação
 
-1. Clone o repositório: `git clone https://github.com/seu_usuario/seu_repositorio.git`
+1. Clone o repositório: `git clone https://github.com/eduardompc/analista_dados.git`
 2. Crie um ambiente virtual: `python3 -m venv .venv`
 3. Ative o ambiente virtual: `source .venv/bin/activate`
 4. Instale as dependências: `pip install -r requirements.txt`
