@@ -1,0 +1,7 @@
+PyQt5
+mysql-connector-python
+pandas
+numpy
+scikit-learn
+statsmodels
+openpyxl
